@@ -1,5 +1,5 @@
 package java8Features;
-//Explaining lambda feature of JAVA programming Language.
+
 import java.util.ArrayList;  
 import java.util.Collections;  
 import java.util.List;  
